@@ -13,4 +13,13 @@ To get started with the Task Tracker project, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone [repository_url]
+   git clone [https://github.com/Edgar-Carpinteyro/basic-task-tracker.git]
+
+## Installation
+
+```bash
+npm create vite@latest
+```
+ ```bash
+npm install
+```
