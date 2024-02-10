@@ -1,9 +1,16 @@
-# React + Vite
+# Task Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+Task Tracker is a simple React project to help you keep track of your tasks and manage your daily activities efficiently.
 
-Currently, two official plugins are available:
+## Technologies
+- React
+- JavaScript
+- Vite (as the build tool)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# basic-task-tracker
+## Getting Started
+To get started with the Task Tracker project, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone [repository_url]
